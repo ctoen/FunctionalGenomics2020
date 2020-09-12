@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Functional Genomics 2020"
 navbar:
-  title: "MyLabJournal"
+  title: "Functional Genomics 2020"
   left:
     - text: "Home"
       href: index.html
