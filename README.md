@@ -1,3 +1,7 @@
+# This is the original README from the crumplab LabJournalWebsite course.  
+I used this LabJournalWebsite as the template for this project/repository. 
+
+
 # LabJournalWebsite
 An R Markdown website template for a lab journal [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
 
