@@ -1,4 +1,4 @@
-# This is the original README from the crumplab LabJournalWebsite course.  
+# README from the crumplab LabJournalWebsite course.  
 I used this LabJournalWebsite as the template for this project/repository. 
 
 
