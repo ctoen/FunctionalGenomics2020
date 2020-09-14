@@ -1,5 +1,5 @@
 ---
-title: "FunctionalGenomics2020"
+title: "LabJournalWebsite"
 output: html_document
 ---
 
@@ -17,9 +17,9 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Functional Genomics 2020**
+# **LabJournalWebsite**
 
-In this class we will be guiding you through several of the data analyses performed for a mainstream epigenomics paper. 
+BlaBlaBla
 
 ## Structure of this computer practical
 
